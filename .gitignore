@@ -55,3 +55,7 @@ dkms.conf
 Sudoku2.vcxproj.user
 Sudoku2.vcxproj.filters
 Sudoku2.vcxproj
+*.log
+*.tlog
+*.vcxproj
+*.filters
